@@ -8,6 +8,7 @@
 4. run `streamlit run main.py` for hoting a local server
 5. a sample deployment can be found at : <coming soon>
 ## Methodology
+Presentation Link: [here](https://docs.google.com/presentation/d/1SRCv6emTgD0ne2EPWP1wZErUS6NdeUES/edit?usp=sharing&ouid=100852616448167547034&rtpof=true&sd=true)
 ### OEM Models
 - We use a dynamic approach towards adding individual and mutually dependent projects simulating a manufacturing process. 
 - The robots and processes base classes can be extended to add more complex processes and robots. This will be made available to the frontend in the future.
