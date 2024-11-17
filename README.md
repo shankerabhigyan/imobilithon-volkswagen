@@ -9,7 +9,7 @@
 5. a sample deployment can be found at : <coming soon>
 ## Methodology
 ### OEM Models
-- We use a dynamic approach towards adding individual and mututally dependent projects simulating a manufacturing process. 
+- We use a dynamic approach towards adding individual and mutually dependent projects simulating a manufacturing process. 
 - The robots and processes base classes can be extended to add more complex processes and robots. This will be made available to the frontend in the future.
 - We have currently defined three robot types with varying specifications and characteristics.
 ![alt text](./images/image-2.png)
