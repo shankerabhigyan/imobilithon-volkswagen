@@ -6,3 +6,4 @@ numpy
 streamlit
 scikit-learn
 pandas
+graphviz
