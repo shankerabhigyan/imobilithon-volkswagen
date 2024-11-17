@@ -3,8 +3,8 @@
 ![alt text](./images/image-1.png)
 ## Setup
 1. `pip install -r requirements.txt`
-2. pull the data folder from thi google drive and place it in ./datasets
-3. pull the remaining fours file from this link and place them in ./models/
+2. pull the data folder from this google drive [link](https://drive.google.com/drive/folders/1YsQ9CVeBzHO25k5KPyK3jlJHNcrcvTWw?usp=sharing) and place it in ./datasets
+3. pull the remaining fours file from this [link](https://drive.google.com/drive/folders/1cfuLauPM2b7B9ZicGXLe3I7m3gyVpQ9y?usp=sharing) and place them in ./models/
 4. run `streamlit run main.py` for hoting a local server
 5. a sample deployment can be found at : <coming soon>
 ## Methodology
