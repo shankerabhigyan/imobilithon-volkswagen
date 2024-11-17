@@ -1,0 +1,6 @@
+bosch_data/
+__pycache__/
+datasets/
+*.csv
+*.keras
+*.h5
