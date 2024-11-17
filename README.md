@@ -18,6 +18,7 @@
 - The process is a simple linear function that can be modified to a more complex function in the future.
 ### Predictive Maintenance & Anamoly Detection
 - We train a VAE model based on the anomaly dataset provided by the [IMPROVE](https://www.improve-etn.eu/) project.
+- The Jupyter Notebooks with EDA and model training can be found in the models folder.
 - We provide separate controls for training the model and performing a live anomaly detection for the blade anomaly dataset.
 - Similarly, we can extend this to other datasets and models in the future.
 ![alt text](./images/image-3.png)
